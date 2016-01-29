@@ -115,6 +115,9 @@ URL to the `.ico` file to use as the icon for the generated `Setup.exe`. [Defaul
 `remote_releases` - *String*
 URL to your existing updates. If given, these will be downloaded to create delta updates. [Default: `null`]
 
+`token` - *String*
+Token used to authenticate access to remote release API. [Default: `null`]
+
 `overwrite` - *Boolean*
 Overwrite existing installers if they already exist. [Default: `false`]
 

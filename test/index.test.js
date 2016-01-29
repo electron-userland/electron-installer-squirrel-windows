@@ -52,7 +52,7 @@ describe('electron-installer-squirrel-windows', function() {
         assert.equal(app.name, 'Myapp');
         assert.equal(app.version, '0.0.0');
         assert.equal(app.description, 'A fixture Electron app for testing app packaging.');
-        assert.equal(app.copyright, '2015 Arlo Basil');
+        assert.equal(app.copyright, '2016 Arlo Basil');
         assert.equal(app.path, path.join(src));
         assert.equal(app.product_name, 'MyApp');
         assert.equal(app.electron_version, '0.29.2');
@@ -88,7 +88,7 @@ describe('electron-installer-squirrel-windows', function() {
           assert.equal(app.name, 'HelloEarl');
           assert.equal(app.version, '0.0.0');
           assert.equal(app.description, 'A fixture Electron app for testing app packaging.');
-          assert.equal(app.copyright, '2015 Arlo Basil');
+          assert.equal(app.copyright, '2016 Arlo Basil');
           assert.equal(app.path, path.join(options.path));
           assert.equal(app.product_name, 'MyApp');
           assert.equal(app.electron_version, '0.29.2');
@@ -120,7 +120,7 @@ describe('electron-installer-squirrel-windows', function() {
           assert.equal(app.name, 'Myapp');
           assert.equal(app.version, '0.0.0');
           assert.equal(app.description, 'A fixture Electron app for testing app packaging.');
-          assert.equal(app.copyright, '2015 Arlo Basil');
+          assert.equal(app.copyright, '2016 Arlo Basil');
           assert.equal(app.path, path.join(options.path));
           assert.equal(app.product_name, 'MyApp');
           assert.equal(app.electron_version, '0.29.2');
