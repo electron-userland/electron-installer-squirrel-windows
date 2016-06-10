@@ -138,3 +138,4 @@ Based on [atom/grunt-electron-installer][original] Copyright (c) 2015 GitHub Inc
 [squirrel]: https://github.com/Squirrel/Squirrel.Windows
 [original]: https://github.com/atom/grunt-electron-installer
 [electron-squirrel-startup]: https://github.com/mongodb-js/electron-squirrel-startup
+[electron-packager]: https://github.com/electron-userland/electron-packager
