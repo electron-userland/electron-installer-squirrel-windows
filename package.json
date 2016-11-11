@@ -27,11 +27,11 @@
     ]
   },
   "dependencies": {
-    "ampersand-model": "^6.0.2",
-    "asar": "~0.9.1",
-    "async": "^1.5.2",
+    "ampersand-model": "^8.0.0",
+    "asar": "~0.12.3",
+    "async": "^2.1.2",
     "debug": "^2.2.0",
-    "fs-extra": "^0.26.5",
+    "fs-extra": "^1.0.0",
     "lodash.assign": "^4.0.1",
     "lodash.clone": "^4.0.2",
     "lodash.foreach": "^4.0.0",
@@ -50,9 +50,9 @@
   ],
   "devDependencies": {
     "electron-installer-fixture-windows": "^0.0.3",
-    "eslint-config-mongodb-js": "^1.0.6",
+    "eslint-config-mongodb-js": "^2.2.0",
     "istanbul": "^0.4.2",
-    "mocha": "^2.4.4",
+    "mocha": "^3.1.2",
     "mongodb-js-precommit": "^0.2.8",
     "pre-commit": "^1.1.2"
   }
